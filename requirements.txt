@@ -1,0 +1,14 @@
+playwright
+requests
+beautifulsoup4
+pandas
+tqdm
+scrapy
+scrapy-playwright
+lxml
+python-dotenv
+rich
+youtube-transcript-api
+pytube
+ffmpeg
+pytubefix
